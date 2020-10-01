@@ -1,4 +1,4 @@
 void main(){
-int a=92;
+int a=92
 float k=72;
 }
